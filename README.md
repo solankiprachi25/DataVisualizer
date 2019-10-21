@@ -2,5 +2,3 @@ A simple data visualizer website where you can make chart. You need to upload a 
 
 Future Scope:
 Aiming to add different kind of charts.
-
-Visit smitnirmal.pythonanywhere.com for demo.
